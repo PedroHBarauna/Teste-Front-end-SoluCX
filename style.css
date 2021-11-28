@@ -187,3 +187,18 @@ label a {
 
 /*responsividade*/
 
+@media screen and (min-width: 1440px){
+    li a{
+        font-size: 17px;
+        margin-left: 50px;
+    }
+
+    label{
+        font-size: 0.75em;
+        margin-left: 40px;
+        margin-top: -18px;
+    }
+    .enviar{
+        padding: 14px;
+    }
+}
